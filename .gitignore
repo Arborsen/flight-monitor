@@ -1,0 +1,11 @@
+node_modules/
+data/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+*.db
+
+# debug/test files
+debug*.py
+test_*.py
